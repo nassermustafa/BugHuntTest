@@ -1,5 +1,3 @@
 == README
 
 This is a simple "Hello World" ruby on rails application to test out or provisioning and deployment set-up.
-
-<tt>rake doc:app</tt>.
